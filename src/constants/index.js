@@ -29,7 +29,8 @@ import {
   netflix,
   rasoi,
   nitkkr,
-  cdlogo
+  cdlogo,
+  xoom
 } from "../assets";
 
 export const navLinks = [
@@ -232,29 +233,37 @@ const projects = [
     source_code_link: "https://github.com/sagarsehrawat/Netflix-Landing-Page-Clone",
   },
   {
-    name: "Desi-Rasoi",
+    name: "Connectly",
     description:
-      "A react app consisting of a user interface which shows recipes of cuisines form all over the world filtered according to their timings and full details about the dishes. Data being fetched from external API.",
+      "Built with the latest Next.js and TypeScript, Connectly is a ready to use video conferencing tool. It enables users to securely log in, create meetings and access various meeting functionalities such as recording, screen sharing, and managing participants.",
     tags: [
       {
-        name: "reactjs",
+        name: "Nextjs",
         color: "blue-text-gradient",
       },
       {
-        name: "rest apis",
+        name: "Typescript",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "clerk",
         color: "pink-text-gradient",
       },
       {
-        name: "prop drilling",
+        name: "getStream",
         color: "pink-text-gradient",
       },
+      {
+        name: "ShanCn",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Tailwind Css",
+        color: "green-text-gradient",
+      }
     ],
-    image: rasoi,
-    source_code_link: "https://github.com/",
+    image: xoom,
+    source_code_link: "https://github.com/sagarsehrawat/xoom",
   },
 ];
 

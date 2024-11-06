@@ -38,6 +38,7 @@ import nitkkr from "./nitkkr.png";
 import cdlogo from "./cdlogo.svg";
 import slogo from "./slogo.svg";
 import spade from "./spade.png";
+import xoom from "./xoom.png";
 
 export {
   logo,
@@ -76,5 +77,6 @@ export {
   nitkkr,
   cdlogo,
   slogo,
-  spade
+  spade,
+  xoom
 };
