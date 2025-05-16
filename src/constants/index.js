@@ -209,7 +209,7 @@ const projects = [
       },
     ],
     image: todo,
-    source_code_link: "https://github.com/sagarsehrawat/WhatToDo",
+    source_code_link: "#",
   },
   {
     name: "Netflix Landing Page",
@@ -230,7 +230,7 @@ const projects = [
       },
     ],
     image: netflix,
-    source_code_link: "https://github.com/sagarsehrawat/Netflix-Landing-Page-Clone",
+    source_code_link: "#",
   },
   {
     name: "Connectly",
@@ -263,7 +263,7 @@ const projects = [
       }
     ],
     image: xoom,
-    source_code_link: "https://github.com/sagarsehrawat/xoom",
+    source_code_link: "#",
   },
 ];
 
